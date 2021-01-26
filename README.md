@@ -4,10 +4,9 @@ A python CLI making git easy and more convenient.  This is an easy way to simpli
 ---
 ## Requirements
 - Linux/ unix
-- Python*
-- Git*
+- Python: required
+- Git: required
 - Github Account
-***requiered**
 ## Getting Started
 Clone the Repo
 ```
