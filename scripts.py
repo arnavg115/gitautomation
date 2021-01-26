@@ -119,6 +119,7 @@ def makeaproj(name):
     os.system("mkdir {}".format(name))
     os.system("cp gitauto {}/gitauto".format(name))
     os.system("cp scripts.py {}/scripts.py".format(name))
+    os.system("cp .gitignore {}/.gitignore".format(name))
     os.system("cd {}".format(name))
     os.system("git init")
     os.system("cd ..")
