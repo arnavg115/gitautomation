@@ -1,0 +1,3 @@
+#!/bin/bash
+str=$*
+python3 scripts.py $str
