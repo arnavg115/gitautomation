@@ -138,4 +138,4 @@ if args.pushtogithub!=None:
     if args.branchandcommit != None:   
         ptg(args.pushtogithub,args.branchandcommit)
     else:
-        ptg(args.pushtogithub,args.branchandcommit)
+        ptg(args.pushtogithub,args.branch)
